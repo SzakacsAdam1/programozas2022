@@ -1,0 +1,8 @@
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\bin\Debug\elsofeladatt.exe.config
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\bin\Debug\elsofeladatt.exe
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\bin\Debug\elsofeladatt.pdb
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\obj\Debug\elsofeladatt.csproj.AssemblyReference.cache
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\obj\Debug\elsofeladatt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\obj\Debug\elsofeladatt.csproj.CoreCompileInputs.cache
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\obj\Debug\elsofeladatt.exe
+C:\Users\User10\source\repos\elsofeladatt\elsofeladatt\obj\Debug\elsofeladatt.pdb
